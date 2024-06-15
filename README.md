@@ -16,3 +16,6 @@
 
 ## Тренажер по ветвлению в Git
 Если Вы хотите усовершенствовать навыки по работе с разными ветками в Git?воспользуйтесь тренажером [https://learngitbranching.js.org/?locale=ru_RU]
+
+## Синтаксис языка Markdown
+Справочник по Markdown от Microsoft: [https://docs.microsoft.com/ru-ru/contribute/markdown-reference]
