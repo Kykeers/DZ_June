@@ -28,10 +28,6 @@
 * **git clean** - очистить терминал;
 * **git merge** - слияние двух веток изменения файла.
 
-## Синтаксис языка Markdown
-
-Справочник по Markdown от Microsoft: [https://docs.microsoft.com/ru-ru/contribute/markdown-reference]
-
 ### Заголовок
 
  "#" Заголовок – выделение заголовков. Количество символов “#” задаёт уровень заголовка
@@ -104,3 +100,7 @@
 
 ## Синтаксис языка Markdown
 Справочник по Markdown от Microsoft: [https://docs.microsoft.com/ru-ru/contribute/markdown-reference]
+
+## Работа с изображениями
+
+Чтобы вставить изображение в текст, достаточно написать следующее "![Текст описания](https://www.example.com/image.jpg)"
