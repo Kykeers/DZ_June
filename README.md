@@ -29,6 +29,41 @@
 
 
 
+
+
+# Second Seminar
+
+## Creating branches
+git branch branch_name - создание новой ветки
+
+## Merging branching
+git merge branch_name - слияние веток
+
+## Conflicts
+Конфликты возникают, когда затронуто общее рабочее пространство
+
+## Deleting
+git branch -d branch_name - удаление ветки
+
+git branch -D branch_name - принудительное удаление ветки
+
+## Checkout
+git checkout branch_name - перейти на укаанную ветку
+
+git checkout -b branch_name - создание новой ветки с переходом в нее
+
+## Status
+git status - отображение состояния файлов 
+
+## Log
+git log - просмотр журнала коммитов
+
+git log --graph - выводит древо коммитов
+
+
+
+
+
 # Работа с удаленными репозиториями
 
 ## Инструкция по синхронизации локального и удаленного репозиториев
