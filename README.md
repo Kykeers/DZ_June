@@ -11,3 +11,6 @@ git merge branch name - слияние веток
 Первая ветка
 # HomeWork2
 Ветка внутри ветки
+# HomeWork3
+
+Создать конфликт
