@@ -5,3 +5,5 @@
 git branch branch name - создание новой ветки
 # Merging branches
 git merge branch name - слияние веток
+# Conflicts
+Конфликты возникают когда затронуто общее рабочее пространство
