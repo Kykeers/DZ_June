@@ -1,4 +1,3 @@
-# DZ_June
 # Second seminar2
 14.06.2024
 ## Creating branches
