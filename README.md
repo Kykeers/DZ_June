@@ -76,3 +76,13 @@ creating new branch conflict
 merging branch creating with main
 ## Conflicts
 Conflict is borned with merging brances creating and main was resolved
+
+# Third seminar
+ ## Clone repository
+ git clone https://github.com/isangulovt/DZ_June.git
+ ## Create branch
+ git branch isangulov
+ ## Add changes
+ git add ./README.md
+ ## Commit changes
+ git commit -m "Third seminar home work"
